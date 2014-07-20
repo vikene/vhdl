@@ -1,0 +1,73 @@
+# Reading C:/altera/81/modelsim_ae/tcl/vsim/pref.tcl 
+# Loading project VHDLprogramming
+# Compile of ANDGATE.vhd was successful.
+vsim work.andgate
+# vsim work.andgate 
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading work.andgate(andg)
+force -freeze sim:/andgate/a 1 0
+# Load canceled
+force -freeze sim:/andgate/b 1 0
+run
+force -freeze sim:/andgate/b 0 0
+run
+# Compile of ORGATE.vhd was successful.
+vsim work.orgate
+# vsim work.orgate 
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading work.orgate(or1)
+force -freeze sim:/orgate/a 1 0
+run
+force -freeze sim:/orgate/b 0 0
+force -freeze sim:/orgate/a 0 0
+run
+# Compile of XOR.vhd was successful.
+vsim work.xorgate
+# vsim work.xorgate 
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading work.xorgate(xorg)
+force -freeze sim:/xorgate/a 1 0
+force -freeze sim:/xorgate/b 0 0
+run
+# Compile of NOTGATE.vhd failed with 1 errors.
+# Compile of NOTGATE.vhd failed with 1 errors.
+# Compile of NOTGATE.vhd failed with 1 errors.
+# Compile of NOTGATE.vhd failed with 1 errors.
+view msgviewer
+# Updating msgviewer database...
+# .main_pane.transcript.interior.cs.tb.canvas.notebook.cs.page2.cs.tree
+# Compile of NOTGATE.vhd was successful.
+# Compile of NOTGATE.vhd was successful.
+# Compile of NOTGATE.vhd was successful.
+# Compile of NOTGATE.vhd was successful.
+# Compile of NOTGATE.vhd was successful.
+vsim work.notgate
+# vsim work.notgate 
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading work.notgate(notg)
+# Updating msgviewer database...
+force -freeze sim:/notgate/a 1 0
+run
+# Updating msgviewer database...
+# Compile of NORGATE.vhd was successful.
+# Compile of ANDGATE.vhd was successful.
+# Compile of ORGATE.vhd was successful.
+# Compile of XOR.vhd was successful.
+# Compile of NOTGATE.vhd was successful.
+# Compile of NORGATE.vhd was successful.
+# Compile of NANDGATE.vhd was successful.
+# Compile of XNORGATE.vhd was successful.
+# 7 compiles, 0 failed with no errors. 
+# Compile of ANDGATE.vhd was successful.
+# Compile of ORGATE.vhd was successful.
+# Compile of XOR.vhd was successful.
+# Compile of NOTGATE.vhd was successful.
+# Compile of NORGATE.vhd was successful.
+# Compile of NANDGATE.vhd was successful.
+# Compile of XNORGATE.vhd was successful.
+# Compile of DRIVER.vhd was successful.
+# 8 compiles, 0 failed with no errors. 

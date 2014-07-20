@@ -1,0 +1,189 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\81\modelsim_ae\examples
+Eandgate
+Z1 w1405863981
+Z2 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z3 8C:/altera/81/modelsim_ae/examples/ANDGATE.vhd
+Z4 FC:/altera/81/modelsim_ae/examples/ANDGATE.vhd
+l0
+L7
+VhminJPXnn9T5LmCdEnj]F1
+Z5 OV;C;6.3g_p1;37
+32
+Z6 o-work work -2002 -explicit -O0
+Z7 tExplicit 1
+Aandg
+R2
+DEx4 work 7 andgate 0 22 hminJPXnn9T5LmCdEnj]F1
+l13
+L12
+Vb`L`cJRWUSPNV7=Q8HSjj2
+R5
+32
+Z8 Mx1 4 ieee 14 std_logic_1164
+R6
+R7
+Edriver
+Z9 w1405876885
+R2
+Z10 8C:/altera/81/modelsim_ae/examples/DRIVER.vhd
+Z11 FC:/altera/81/modelsim_ae/examples/DRIVER.vhd
+l0
+L4
+VmY[ZAaM7nPWh=4ia3PFdT1
+R5
+32
+R6
+R7
+Adrive
+R2
+DEx4 work 6 driver 0 22 mY[ZAaM7nPWh=4ia3PFdT1
+l13
+L11
+ViL4^F=]C4EBj2:n037nGe3
+R5
+32
+R8
+R6
+R7
+Enandgate
+Z12 w1405876695
+R2
+Z13 8C:/altera/81/modelsim_ae/examples/NANDGATE.vhd
+Z14 FC:/altera/81/modelsim_ae/examples/NANDGATE.vhd
+l0
+L4
+Vco[ldHF^[>:i5b3_egi<;1
+R5
+32
+R6
+R7
+Anandg
+R2
+DEx4 work 8 nandgate 0 22 co[ldHF^[>:i5b3_egi<;1
+l10
+L9
+VTnJ8Lj4kFQnS]^z3_e_Xh0
+R5
+32
+R8
+R6
+R7
+Enorgate
+Z15 w1405876182
+R2
+Z16 8C:/altera/81/modelsim_ae/examples/NORGATE.vhd
+Z17 FC:/altera/81/modelsim_ae/examples/NORGATE.vhd
+l0
+L3
+VCReIbe9gGPNQVV6ZMeKlK0
+R5
+32
+R6
+R7
+Anorg
+R2
+DEx4 work 7 norgate 0 22 CReIbe9gGPNQVV6ZMeKlK0
+l9
+L8
+V:cJQe[[Wb:59@X8bXUbQ33
+R5
+32
+R8
+R6
+R7
+Enotgate
+Z18 w1405876026
+R2
+Z19 8C:/altera/81/modelsim_ae/examples/NOTGATE.vhd
+Z20 FC:/altera/81/modelsim_ae/examples/NOTGATE.vhd
+l0
+L3
+VJ@]TD^TlhDddOFW8nbDcR3
+R5
+32
+R6
+R7
+Anotg
+R2
+DEx4 work 7 notgate 0 22 J@]TD^TlhDddOFW8nbDcR3
+l9
+L8
+V^FoTJXkD]<B?GO=XmC7?m0
+R5
+32
+R8
+R6
+R7
+Eorgate
+Z21 w1405864341
+R2
+Z22 8C:/altera/81/modelsim_ae/examples/ORGATE.vhd
+Z23 FC:/altera/81/modelsim_ae/examples/ORGATE.vhd
+l0
+L4
+VVCQ6hIFS??GlnfnIaFFe81
+R5
+32
+R6
+R7
+Aor1
+R2
+DEx4 work 6 orgate 0 22 VCQ6hIFS??GlnfnIaFFe81
+l10
+L9
+VbP6XL5Zk`3ZMX3EN^_5iF2
+R5
+32
+R8
+R6
+R7
+Exnorgate
+Z24 w1405876784
+R2
+Z25 8C:/altera/81/modelsim_ae/examples/XNORGATE.vhd
+Z26 FC:/altera/81/modelsim_ae/examples/XNORGATE.vhd
+l0
+L4
+VW9mWDbGM]3HT`<2fmcJL[1
+R5
+32
+R6
+R7
+Axnorg
+R2
+DEx4 work 8 xnorgate 0 22 W9mWDbGM]3HT`<2fmcJL[1
+l10
+L9
+VMeHiLz;9GW3i9_W;5:[eA2
+R5
+32
+R8
+R6
+R7
+Exorgate
+Z27 w1405873620
+R2
+Z28 8C:/altera/81/modelsim_ae/examples/XOR.vhd
+Z29 FC:/altera/81/modelsim_ae/examples/XOR.vhd
+l0
+L4
+VYE?[hC0Ka8NABkS?I`oUJ3
+R5
+32
+R6
+R7
+Axorg
+R2
+DEx4 work 7 xorgate 0 22 YE?[hC0Ka8NABkS?I`oUJ3
+l10
+L9
+VfJ@Nz5W1TjPSzoo8]Z]M[0
+R5
+32
+R8
+R6
+R7

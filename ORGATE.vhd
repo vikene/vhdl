@@ -1,0 +1,13 @@
+LIBRARY IEEE;
+    USE IEEE.STD_LOGIC_1164.ALL;
+    
+    ENTITY ORGATE IS 
+    PORT(A,B:IN STD_LOGIC;
+        C:OUT STD_LOGIC);
+    END ORGATE;
+    
+    ARCHITECTURE OR1 OF ORGATE IS
+        BEGIN 
+            C <= A OR B;
+        END OR1;
+        
